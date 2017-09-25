@@ -3,7 +3,7 @@ void sum(int x,int y)
 {	int sum=x+y;
 }
 int main()
-{	printf("sum :");
+{	printf("THE sum IS :");
 	sum(2,3);
 	return 0;
 }
